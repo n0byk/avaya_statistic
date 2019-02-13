@@ -12,3 +12,5 @@ _____________________ FOR USE _____________________
 1.  Edit 23 line\  set your id idress AVAYA station!         if( !socket_bind($sock, "10.244.6.7" , 9000) )
 
 2.  Echo $input (56 line), it's you data. than parse string and get what you need.
+
+3. Use stat.bat for start collecting your statistic
